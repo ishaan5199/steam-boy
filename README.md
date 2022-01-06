@@ -65,7 +65,7 @@ Basic format
 
 ## Tech Stack / Built With
 List down the technology / frameworks / tools / technology you have used in this project.
-1. [node.JS](https://www.npmjs.com/package/create-node-cli) - bootstrapped with `create-node-cli`
+1. [node.js](https://www.npmjs.com/package/create-node-cli) - bootstrapped with `create-node-cli`
 2. Styling and color of output text via [chalk](https://www.npmjs.com/package/chalk)
 
 ## How to Contribute
@@ -73,7 +73,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Steps to contribute:
 1. Fork this repository (link to your repository)
-2. Create your feature branch (git checkout -b feature/fooBar)
+2. Change to the development branch
 3. Commit your changes (git commit -am 'Add some fooBar')
 4. Push to the branch (git push origin feature/fooBar)
 5. Create a new Pull Request
