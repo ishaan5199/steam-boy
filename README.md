@@ -9,8 +9,8 @@
 
 ## Requirements  (Prerequisites)
 Tools and packages required to successfully install this project.
-* node.js [Install](https://nodejs.org/en/)
-* Steam API Key [Key](https://steamcommunity.com/dev/apikey)
+* node.js : [Install](https://nodejs.org/en/)
+* Steam API Key : [Get](https://steamcommunity.com/dev/apikey)
 * User ID (can be obtained by clicking your username on the steam site and -> view profile, copy the the last section of the URL) <br>eg : id from  https://steamcommunity.com/profiles/id/
 
 ## Installation
