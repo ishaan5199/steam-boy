@@ -72,10 +72,10 @@ List down the technology / frameworks / tools / technology you have used in this
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. If you'd like to contribute, please fork the repository and make changes as you'd like.
 
 Steps to contribute:
-1. Fork this repository (link to your repository)
+1. Fork this repository
 2. Change to the development branch
-3. Commit your changes (git commit -am 'Add some fooBar')
-4. Push to the branch (git push origin feature/fooBar)
+3. Commit your changes
+4. Push to the branch
 5. Create a new Pull Request
 
 Currently not fully ES6 compliant, mainly using require and module.exports instead of import and export.
