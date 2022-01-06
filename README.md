@@ -28,7 +28,7 @@ For Windows
 `npm install -g`
 
 ## Usage
-Navigate to package.json file and place your steam API key and User ID as a value for "apiKey" and "steamID" in quotes respectively.
+### Navigate to package.json file and place your steam API key and User ID as a value for "apiKey" and "steamID" in quotes respectively.
 
 If either of steam API key or the User ID is invalid, the app will throw an error.<br><br>
 ![2022-01-07 (6)](https://user-images.githubusercontent.com/78961353/148439930-cd7fc641-16c1-4ad5-8175-520ad1d160b4.png)
