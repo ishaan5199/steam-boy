@@ -50,7 +50,7 @@ var globalGameData = [];
 		
 	}catch(e){
 		loading.stop();
-		console.log(chalk.bold.bgRed("\n\nAPI key or user ID is invalid!\n"));
+		console.log(chalk.bold.bgRed("\nAPI key or user ID is invalid!\n"));
 		return;
 	}
 
