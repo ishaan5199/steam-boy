@@ -68,7 +68,7 @@ List down the technology / frameworks / tools / technology you have used in this
 1. [node.js](https://www.npmjs.com/package/create-node-cli) - bootstrapped with `create-node-cli`
 2. Styling and color of output text via [chalk](https://www.npmjs.com/package/chalk)
 
-## How to Contribute
+<!-- ## How to Contribute
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. If you'd like to contribute, please fork the repository and make changes as you'd like.
 
 Steps to contribute:
@@ -81,7 +81,7 @@ Steps to contribute:
 Currently not fully ES6 compliant, mainly using require and module.exports instead of import and export.
 Need to change styling of the output text
 
-Will open issues soon!
+Will open issues soon! -->
 
 ## Authors
 Ishaan Mahesh
