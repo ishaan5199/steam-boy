@@ -64,7 +64,6 @@ Basic format
 ![2022-01-07 (4)](https://user-images.githubusercontent.com/78961353/148437996-97c4aabb-993f-45d0-8bdb-fedf1537b73f.png)
 
 ## Tech Stack / Built With
-List down the technology / frameworks / tools / technology you have used in this project.
 1. [node.js](https://www.npmjs.com/package/create-node-cli) - bootstrapped with `create-node-cli`
 2. Styling and color of output text via [chalk](https://www.npmjs.com/package/chalk)
 
